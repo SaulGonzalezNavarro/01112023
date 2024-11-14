@@ -1,0 +1,28 @@
+
+
+.bloque{
+    background-color: beige;
+    margin: 30px 70px 10px 70px;
+    border-radius: 10px;
+    padding-bottom: 800px;
+    padding-top: 5px;
+}
+
+body{
+    text-align: center;
+    margin: 0;
+}
+
+header{
+margin-top: 2px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 5px;
+}
